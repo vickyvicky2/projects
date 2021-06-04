@@ -1,4 +1,4 @@
-  public class Rectangle {
+  public class HollowRectangle {
  public static void main (String[] args) {
      printRectangle();
  }
