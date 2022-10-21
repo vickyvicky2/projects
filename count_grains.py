@@ -4,14 +4,7 @@
 #
 # DESCRIPTION
 #  This program uses a for loop to calculate the answer to the wheat and chessboard problem
-#  
-# DATE
-#  due October 14, 2022
-#
-# PROGRAMMER
-# Victoria Aguilar
-# aguil113@canton.edu
-#
+
 
 #variable for grains
 grains = 1
