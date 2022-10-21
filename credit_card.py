@@ -5,14 +5,7 @@
 # DESCRIPTION
 #   This program prompts for a credit card number and outputs the name of the brand.
 #
-# DATE
-#   October, 26 2022
-#
-# PROGRAMMER
-#   Victoria Aguilar
-#   aguil113@canton.edu
-#
-#
+
 
 #receives input card number from user
 credit = input("What is the number of the credit card you want to know the brand of? ")
