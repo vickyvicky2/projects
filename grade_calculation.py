@@ -4,15 +4,6 @@
 #
 # DESCRIPTION
 #   This program uses a decision structure to calculate a grade using an exam score input
-#
-# DATE
-#   October, 26 2022
-#
-# PROGRAMMER
-#   Victoria Aguilar
-#   aguil113@canton.edu
-#
-#
 
 # asks user to enter grade
 grade = eval(input("Please enter your exam score to receive your corresponding grade: "))
